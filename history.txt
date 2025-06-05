@@ -1,0 +1,6 @@
+dir
+mkdir
+ls
+help
+pwd
+dir
